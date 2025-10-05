@@ -1,8 +1,17 @@
 # Fuzzy-Electricity-Bill
-Langkah Penggunaan Aplikasi
-1. Download app_gui.exe dan modul .pkl
-2. Buka app_gui.exe
-3. (Opsional jika modul pkl belum dimuat) Klik "File" di menu bar atas, lalu pilih file .pkl sebelumnya
-4. Masukkan input semua fitur sesuai validasi
-5. Klik Prediksi
-6. Prediksi biaya akan tampil
+Langkah Penggunaan
+1. Clone repo
+2. Jalankan
+```
+python app_gui.py
+```   
+4. (Opsional jika modul pkl belum dimuat) Klik "File" di menu bar atas, lalu pilih file .pkl
+5. Masukkan input semua fitur sesuai validasi
+6. Klik Prediksi
+7. Prediksi biaya akan tampil
+
+
+Modul pkl bisa dibuat ulang dengan
+```
+python train_export.py
+```
