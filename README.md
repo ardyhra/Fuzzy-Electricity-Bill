@@ -15,3 +15,8 @@ Modul pkl bisa dibuat ulang dengan
 ```
 python train_export.py
 ```
+
+
+Screenshot contoh penggunaan
+<img width="1119" height="953" alt="image" src="https://github.com/user-attachments/assets/44a06f4b-fbde-4078-8010-ab0dd3360e82" />
+
